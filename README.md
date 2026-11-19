@@ -43,9 +43,9 @@
 ### 🌟 Featured Project: Fruit Shop Management & VietQR System
 
 A complete multi-platform retail management ecosystem connecting three independent repositories:
-1. **[fruit-shop-backend](https://github.com):** Centralized Laravel 13 RESTful API, MySQL database, Sanctum authentication, and SePay bank transfer webhook receiver.
-2. **[fruit-shop-frontend](https://github.com):** Protected ReactJS + Bootstrap 5 Admin Dashboard deployed on Vercel for inventory control and daily revenue analytics.
-3. **[fruit-shop-mobile](https://github.com):** Cross-platform Flutter POS app (Android APK & iOS Web PWA) featuring dynamic VietQR generation, split cash/transfer payments, and automated Vietnamese voice alerts.
+1. **[fruit-shop-backend](https://github.com/hqvicntt/fruit-shop-backend):** Centralized Laravel 12 RESTful API, MySQL database, Sanctum authentication, and SePay bank transfer webhook receiver.
+2. **[fruit-shop-frontend](https://github.com/hqvicntt/fruit-shop-frontend):** Protected ReactJS + Bootstrap 5 Admin Dashboard deployed on Vercel for inventory control and daily revenue analytics.
+3. **[fruit-shop-mobile](https://github.com/hqvicntt/fruit-shop-mobile):** Cross-platform Flutter POS app (Android APK & iOS Web PWA) featuring dynamic VietQR generation, split cash/transfer payments, and automated Vietnamese voice alerts.
 
 ---
 
