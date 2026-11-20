@@ -23,6 +23,9 @@
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?logo=fastapi&logoColor=white)
 
 **Frontend & Mobile:**  
